@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript AH~
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 NavyBLLiu@yeah.net
 
 <!---
 NavyBLLIU/NavyBLLIU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
